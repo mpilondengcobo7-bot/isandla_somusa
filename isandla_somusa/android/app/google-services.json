@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681278406079",
+    "project_id": "isandla-somusa-bebb1",
+    "storage_bucket": "isandla-somusa-bebb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681278406079:android:8c8d59e586bdb84ef5350a",
+        "android_client_info": {
+          "package_name": "com.somusa.isandla_somusa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgfXXSc3qgpS7xIuDDfY911Axdcpsgzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
